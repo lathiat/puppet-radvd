@@ -7,4 +7,4 @@ summary 'Simple Puppet radvd management module'
 description 'UNKONWN'
 project_page 'https://github.com/fpletz/puppet/radvd'
 
-dependency 'ripienaar/concat', '>= 0.1.0'
+dependency 'puppetlabs/concat', '>= 0.1.0'
